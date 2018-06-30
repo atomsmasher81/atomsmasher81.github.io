@@ -1,0 +1,27 @@
+body{
+	background-image: url("https://images.pexels.com/photos/730896/pexels-photo-730896.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	color: white;
+	padding-top: 15px;
+}
+
+.btn-light {
+	 font-size: 24px;
+	 background-color: #111111;
+	 border:1px solid #888888;
+	 color: #999999;
+
+}
+
+.btn-light:hover{
+	background-color: white;
+	color:black;
+}
